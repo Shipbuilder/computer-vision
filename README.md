@@ -1,2 +1,1 @@
-# computer-vision
-计算机视觉
+# 计算机视觉
